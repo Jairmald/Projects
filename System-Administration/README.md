@@ -119,9 +119,6 @@ This lab successfully demonstrated enterprise-level system administration throug
 
 ---
 
-## **Team**
-
-Jair Maldonado | Yankee Renovato | Grant Keiffer | Dawit Tewelde
 
 ---
 
